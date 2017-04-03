@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench progressCount="17" version="2.0">
+<workbenchAdvisor/>
+<window height="743" maximized="true" width="1018" x="61" y="24">
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar>
+<itemSize x="160"/>
+</perspectiveBar>
+<coolbarLayout>
+<coolItem id="group.file" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="132" y="26"/>
+<coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.debug.ui.launch.toolbar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="142" y="26"/>
+<coolItem id="org.eclipse.debug.ui.main.toolbar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="80" y="26"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="114" y="26"/>
+<coolItem id="group.nav" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="212" y="26"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.jdt.ui.ClassFileEditorNoSource" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="org.eclipse.jdt.ui.CompilationUnitEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.ui.DefaultTextEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="group.help" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
+</coolbarLayout>
+<page aggregateWorkingSetId="Aggregate for window 1467639431720" focus="true" label="Workspace - Resource">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
+<part id="7"/>
+<part id="8"/>
+<part id="9"/>
+<part id="10"/>
+<part id="11"/>
+<part id="12"/>
+<part id="13"/>
+<part id="14"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HelloWorld.java" partName="HelloWorld.java" path="/media/natasha/OS/workspace/java/HelloWorld/src/helloworld/HelloWorld.java" title="HelloWorld.java" tooltip="HelloWorld/src/helloworld/HelloWorld.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/HelloWorld/src/helloworld/HelloWorld.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Name.java" partName="Name.java" title="Name.java" tooltip="/media/natasha/OS/workspace/java/HelloWorld/src/Name.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/media/natasha/OS/workspace/java/HelloWorld/src/Name.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="441" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HelloWorld.java" partName="HelloWorld.java" title="HelloWorld.java" tooltip="/media/natasha/OS/workspace/java/HelloWorld/src/HelloWorld.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/media/natasha/OS/workspace/java/HelloWorld/src/HelloWorld.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="423" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Additon.java" partName="Additon.java" title="Additon.java" tooltip="/media/natasha/OS/workspace/java/HelloWorld/src/Additon.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/media/natasha/OS/workspace/java/HelloWorld/src/Additon.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="239" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="XPathEnhancerParser.java" partName="XPathEnhancerParser.java" path="/home/natasha/docx4j-master/src/main/java/org/docx4j/model/datastorage/XPathEnhancerParser.java" title="XPathEnhancerParser.java" tooltip="docx4j-git/src/main/java/org/docx4j/model/datastorage/XPathEnhancerParser.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/docx4j-git/src/main/java/org/docx4j/model/datastorage/XPathEnhancerParser.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="20" selectionOffset="884" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="StyleDefinitionsPart.java" partName="StyleDefinitionsPart.java" path="/home/natasha/docx4j-master/src/main/java/org/docx4j/openpackaging/parts/WordprocessingML/StyleDefinitionsPart.java" title="StyleDefinitionsPart.java" tooltip="docx4j-git/src/main/java/org/docx4j/openpackaging/parts/WordprocessingML/StyleDefinitionsPart.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/docx4j-git/src/main/java/org/docx4j/openpackaging/parts/WordprocessingML/StyleDefinitionsPart.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="17" selectionOffset="1946" selectionTopPixel="278"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="EventMonitoringDemo.java" partName="EventMonitoringDemo.java" path="/home/natasha/docx4j-master/src/samples/docx4j/org/docx4j/samples/EventMonitoringDemo.java" title="EventMonitoringDemo.java" tooltip="docx4j-git/src/samples/docx4j/org/docx4j/samples/EventMonitoringDemo.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/docx4j-git/src/samples/docx4j/org/docx4j/samples/EventMonitoringDemo.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="822" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GlyphCheck.java" partName="GlyphCheck.java" path="/home/natasha/docx4j-master/src/main/java/org/docx4j/fonts/GlyphCheck.java" title="GlyphCheck.java" tooltip="docx4j-git/src/main/java/org/docx4j/fonts/GlyphCheck.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/docx4j-git/src/main/java/org/docx4j/fonts/GlyphCheck.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="487" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="NamespacePrefixMapper.java" partName="NamespacePrefixMapper.java" path="/home/natasha/docx4j-master/src/main/java/org/docx4j/jaxb/NamespacePrefixMapper.java" title="NamespacePrefixMapper.java" tooltip="docx4j-git/src/main/java/org/docx4j/jaxb/NamespacePrefixMapper.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/docx4j-git/src/main/java/org/docx4j/jaxb/NamespacePrefixMapper.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="16" selectionOffset="741" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PageCounter.java" partName="PageCounter.java" path="/home/natasha/docx4j-master/src/samples/docx4j/org/docx4j/samples/PageCounter.java" title="PageCounter.java" tooltip="docx4j-git/src/samples/docx4j/org/docx4j/samples/PageCounter.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/docx4j-git/src/samples/docx4j/org/docx4j/samples/PageCounter.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="30" selectionOffset="1541" selectionTopPixel="222"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TocGenerator.java" partName="TocGenerator.java" path="/home/natasha/docx4j-master/src/main/java/org/docx4j/toc/TocGenerator.java" title="TocGenerator.java" tooltip="docx4j-git/src/main/java/org/docx4j/toc/TocGenerator.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/docx4j-git/src/main/java/org/docx4j/toc/TocGenerator.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="8" selectionOffset="27850" selectionTopPixel="445"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SvgExporter.java" partName="SvgExporter.java" path="/home/natasha/docx4j-master/src/pptx4j/java/org/pptx4j/convert/out/svginhtml/SvgExporter.java" title="SvgExporter.java" tooltip="docx4j-git/src/pptx4j/java/org/pptx4j/convert/out/svginhtml/SvgExporter.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/docx4j-git/src/pptx4j/java/org/pptx4j/convert/out/svginhtml/SvgExporter.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1476" selectionTopPixel="333"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Change.java" partName="Change.java" path="/media/natasha/OS/workspace/java/HelloWorld/src/Change.java" title="Change.java" tooltip="HelloWorld/src/Change.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/HelloWorld/src/Change.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="6" selectionOffset="77" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ScrambleText.java" partName="ScrambleText.java" path="/home/natasha/docx4j-master/src/main/java/org/docx4j/anon/ScrambleText.java" title="ScrambleText.java" tooltip="docx4j-git/src/main/java/org/docx4j/anon/ScrambleText.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/docx4j-git/src/main/java/org/docx4j/anon/ScrambleText.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="19" selectionOffset="1309" selectionTopPixel="445"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="XPathEnhancerLexer.java" partName="XPathEnhancerLexer.java" path="/home/natasha/docx4j-master/src/main/java/org/docx4j/model/datastorage/XPathEnhancerLexer.java" title="XPathEnhancerLexer.java" tooltip="docx4j-git/src/main/java/org/docx4j/model/datastorage/XPathEnhancerLexer.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/docx4j-git/src/main/java/org/docx4j/model/datastorage/XPathEnhancerLexer.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="604" selectionTopPixel="1780"/>
+</editor>
+</editors>
+<views>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.ProblemView" partName="Problems">
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
+<columnWidths org.eclipse.ui.ide.locationField="120" org.eclipse.ui.ide.markerType="226" org.eclipse.ui.ide.pathField="160" org.eclipse.ui.ide.resourceField="120" org.eclipse.ui.ide.severityAndDescriptionField="400"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+</viewState>
+</view>
+<view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.TaskList" partName="Tasks">
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.completionField" categoryGroup="none" markerContentGenerator="org.eclipse.ui.ide.tasksGenerator" partName="Tasks">
+<columnWidths org.eclipse.ui.ide.completionField="40" org.eclipse.ui.ide.descriptionField="400" org.eclipse.ui.ide.locationField="120" org.eclipse.ui.ide.markerType="146" org.eclipse.ui.ide.pathField="160" org.eclipse.ui.ide.priorityField="40" org.eclipse.ui.ide.resourceField="120"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.completionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.priorityField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.descriptionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+</viewState>
+</view>
+<view id="org.eclipse.ui.navigator.ProjectExplorer" partName="Project Explorer">
+<viewState CommonNavigator.LINKING_ENABLED="0" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0"/>
+</view>
+</views>
+<perspectives activePart="org.eclipse.jdt.ui.CompilationUnitEditor" activePerspective="org.eclipse.ui.resourcePerspective">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.ui.internal.ide.application.ResourcePerspective" id="org.eclipse.ui.resourcePerspective" label="Resource"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<show_view_action id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<show_view_action id="org.eclipse.ui.views.BookmarkView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.views.PropertySheet"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.ui.views.ProgressView"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<show_view_action id="org.eclipse.ant.ui.views.AntView"/>
+<show_view_action id="org.eclipse.pde.runtime.LogView"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<new_wizard_action id="org.eclipse.ui.editors.wizards.UntitledTextFileWizard"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaPerspective"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaBrowsingPerspective"/>
+<perspective_action id="org.eclipse.team.cvs.ui.cvsPerspective"/>
+<perspective_action id="org.eclipse.team.ui.TeamSynchronizingPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<hide_toolbar_item_id id="org.eclipse.debug.ui.commands.RunToLine"/>
+<hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
+<view id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<view id="org.eclipse.ui.views.ProblemView"/>
+<fastViewBars>
+<fastViewBar fastViewLocation="1024" id="bottomRight" orientation="256" selectedTabId="org.eclipse.ui.console.ConsoleView" style="0">
+<fastViews>
+<view id="org.eclipse.ui.views.TaskList" ratio="0.3"/>
+<view id="org.eclipse.ui.console.ConsoleView" ratio="0.3"/>
+</fastViews>
+</fastViewBar>
+</fastViewBars>
+<layout>
+<mainWindow>
+<info folder="true" part="topLeft">
+<folder activePageID="org.eclipse.ui.navigator.ProjectExplorer" appearance="2" expanded="2">
+<page content="org.eclipse.ui.navigator.ProjectExplorer" label="Project Explorer"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
+<page content="org.eclipse.team.ccvs.ui.RepositoriesView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.7495049" ratioLeft="757" ratioRight="253" relationship="2" relative="topLeft">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.25940594" ratioLeft="262" ratioRight="748" relationship="2" relative="topLeft"/>
+<info folder="true" part="bottomRight" ratio="0.659375" ratioLeft="422" ratioRight="218" relationship="4" relative="org.eclipse.ui.editorss">
+<folder appearance="2" expanded="0">
+<page content="org.eclipse.ui.views.TaskList" label="LabelNotFound"/>
+<page content="org.eclipse.ui.console.ConsoleView" label="LabelNotFound"/>
+<page content="org.eclipse.team.ui.GenericHistoryView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@646cb2e" ratio="0.4995169" ratioLeft="517" ratioRight="518" relationship="2" relative="org.eclipse.ui.editorss">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.pde.runtime.LogView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@333a2df2" ratio="0.6696562" ratioLeft="448" ratioRight="221" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.views.ProblemView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="bottomLeft" ratio="0.5" ratioLeft="320" ratioRight="320" relationship="4" relative="topLeft">
+<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<page content="org.eclipse.ant.ui.views.AntView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/First_JS/main/login_page.html"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/First_JS/main/main_login.css"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/HelloWorld/src/HelloWorld.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/HelloWorld/src/helloworld/HelloWorld.java"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" uri="file:/media/natasha/OS/workspace/java/HelloWorld/src/Name.java"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" uri="file:/media/natasha/OS/workspace/java/HelloWorld/src/HelloWorld.java"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" uri="file:/media/natasha/OS/workspace/java/HelloWorld/src/Additon.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/docx4j-git/src/main/java/org/docx4j/model/datastorage/XPathEnhancerParser.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/docx4j-git/src/main/java/org/docx4j/openpackaging/parts/WordprocessingML/StyleDefinitionsPart.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/docx4j-git/src/samples/docx4j/org/docx4j/samples/EventMonitoringDemo.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/docx4j-git/src/main/java/org/docx4j/fonts/GlyphCheck.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/docx4j-git/src/main/java/org/docx4j/jaxb/NamespacePrefixMapper.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/docx4j-git/src/samples/docx4j/org/docx4j/samples/PageCounter.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/docx4j-git/src/main/java/org/docx4j/toc/TocGenerator.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/docx4j-git/src/pptx4j/java/org/pptx4j/convert/out/svginhtml/SvgExporter.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/HelloWorld/src/Change.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/docx4j-git/src/main/java/org/docx4j/anon/ScrambleText.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/docx4j-git/src/main/java/org/docx4j/model/datastorage/XPathEnhancerLexer.java"/>
+<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditorNoSource" org.eclipse.jdt.ui.ClassFileIdentifier="=docx4j-git/\/home\/natasha\/Загрузки\/antlr-runtime-3.0.jar&lt;org.antlr.runtime(Lexer.class"/>
+</editors>
+<item historyLabel="login_page.html" index="0">
+<position info="not_deleted" x="23" y="0"/>
+</item>
+<item historyLabel="login_page.html" index="0">
+<position info="not_deleted" x="966" y="0"/>
+</item>
+<item historyLabel="login_page.html" index="0">
+<position info="not_deleted" x="966" y="0"/>
+</item>
+<item historyLabel="login_page.html" index="0">
+<position/>
+</item>
+<item historyLabel="main_login.css" index="1">
+<position info="not_deleted" x="275" y="0"/>
+</item>
+<item historyLabel="main_login.css" index="1">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="login_page.html" index="0">
+<position info="not_deleted" x="498" y="0"/>
+</item>
+<item historyLabel="main_login.css" index="1">
+<position info="not_deleted" x="16" y="0"/>
+</item>
+<item historyLabel="login_page.html" index="0">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="HelloWorld.java" index="2">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="HelloWorld.java" index="2">
+<position info="not_deleted" x="128" y="0"/>
+</item>
+<item historyLabel="HelloWorld.java" index="2">
+<position info="not_deleted" x="33" y="10"/>
+</item>
+<item historyLabel="HelloWorld.java" index="2">
+<position info="not_deleted" x="19" y="0"/>
+</item>
+<item historyLabel="HelloWorld.java" index="3">
+<position info="not_deleted" x="9" y="10"/>
+</item>
+<item historyLabel="HelloWorld.java" index="3">
+<position info="not_deleted" x="330" y="0"/>
+</item>
+<item historyLabel="HelloWorld.java" index="3">
+<position info="not_deleted" x="9" y="10"/>
+</item>
+<item historyLabel="HelloWorld.java" index="3">
+<position info="not_deleted" x="331" y="0"/>
+</item>
+<item historyLabel="HelloWorld.java" index="3">
+<position info="not_deleted" x="9" y="10"/>
+</item>
+<item historyLabel="Name.java" index="4">
+<position info="not_deleted" x="137" y="0"/>
+</item>
+<item historyLabel="HelloWorld.java" index="3">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Name.java" index="4">
+<position info="not_deleted" x="137" y="0"/>
+</item>
+<item historyLabel="HelloWorld.java" index="5">
+<position info="not_deleted" x="423" y="0"/>
+</item>
+<item historyLabel="Additon.java" index="6">
+<position info="not_deleted" x="239" y="0"/>
+</item>
+<item historyLabel="Name.java" index="4">
+<position info="not_deleted" x="508" y="0"/>
+</item>
+<item historyLabel="XPathEnhancerParser.java" index="7">
+<position info="not_deleted" x="884" y="20"/>
+</item>
+<item historyLabel="StyleDefinitionsPart.java" index="8">
+<position info="not_deleted" x="1946" y="17"/>
+</item>
+<item historyLabel="EventMonitoringDemo.java" index="9">
+<position info="not_deleted" x="816" y="27"/>
+</item>
+<item historyLabel="GlyphCheck.java" index="10">
+<position info="not_deleted" x="487" y="0"/>
+</item>
+<item historyLabel="NamespacePrefixMapper.java" index="11">
+<position info="not_deleted" x="741" y="16"/>
+</item>
+<item historyLabel="EventMonitoringDemo.java" index="9">
+<position info="not_deleted" x="822" y="0"/>
+</item>
+<item historyLabel="PageCounter.java" index="12">
+<position info="not_deleted" x="1541" y="13"/>
+</item>
+<item historyLabel="TocGenerator.java" index="13">
+<position info="not_deleted" x="27850" y="8"/>
+</item>
+<item historyLabel="SvgExporter.java" index="14">
+<position info="not_deleted" x="1175" y="22"/>
+</item>
+<item historyLabel="Change.java" index="15">
+<position info="not_deleted" x="77" y="6"/>
+</item>
+<item historyLabel="PageCounter.java" index="12">
+<position info="not_deleted" x="1541" y="30"/>
+</item>
+<item historyLabel="ScrambleText.java" index="16">
+<position info="not_deleted" x="1309" y="19"/>
+</item>
+<item historyLabel="SvgExporter.java" index="14">
+<position info="not_deleted" x="1175" y="22"/>
+</item>
+<item historyLabel="SvgExporter.java" index="14">
+<position info="not_deleted" x="1483" y="0"/>
+</item>
+<item historyLabel="SvgExporter.java" index="14">
+<position info="not_deleted" x="1476" y="0"/>
+</item>
+<item historyLabel="XPathEnhancerLexer.java" index="17">
+<position info="not_deleted" x="3069" y="5"/>
+</item>
+<item historyLabel="XPathEnhancerLexer.java" index="17">
+<position info="not_deleted" x="14604" y="5"/>
+</item>
+<item historyLabel="XPathEnhancerLexer.java" index="17">
+<position info="not_deleted" x="3102" y="5"/>
+</item>
+<item historyLabel="XPathEnhancerLexer.java" index="17">
+<position info="not_deleted" x="604" y="0"/>
+</item>
+<item historyLabel="Lexer.class" index="18">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item active="true" historyLabel="XPathEnhancerLexer.java" index="17">
+<position info="not_deleted" x="604" y="0"/>
+</item>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+<trimLayout>
+<trimArea IMemento.internal.id="128">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
+</trimArea>
+<trimArea IMemento.internal.id="1024">
+<trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
+<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+<trimItem IMemento.internal.id="bottomRight"/>
+</trimArea>
+</trimLayout>
+</window>
+<mruList>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditorNoSource" name="Lexer.class" tooltip="org.antlr.runtime.Lexer">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=docx4j-git/\/home\/natasha\/Загрузки\/antlr-runtime-3.0.jar&lt;org.antlr.runtime(Lexer.class"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="XPathEnhancerLexer.java" tooltip="docx4j-git/src/main/java/org/docx4j/model/datastorage/XPathEnhancerLexer.java">
+<persistable path="/docx4j-git/src/main/java/org/docx4j/model/datastorage/XPathEnhancerLexer.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ScrambleText.java" tooltip="docx4j-git/src/main/java/org/docx4j/anon/ScrambleText.java">
+<persistable path="/docx4j-git/src/main/java/org/docx4j/anon/ScrambleText.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Change.java" tooltip="HelloWorld/src/Change.java">
+<persistable path="/HelloWorld/src/Change.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SvgExporter.java" tooltip="docx4j-git/src/pptx4j/java/org/pptx4j/convert/out/svginhtml/SvgExporter.java">
+<persistable path="/docx4j-git/src/pptx4j/java/org/pptx4j/convert/out/svginhtml/SvgExporter.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TocGenerator.java" tooltip="docx4j-git/src/main/java/org/docx4j/toc/TocGenerator.java">
+<persistable path="/docx4j-git/src/main/java/org/docx4j/toc/TocGenerator.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PageCounter.java" tooltip="docx4j-git/src/samples/docx4j/org/docx4j/samples/PageCounter.java">
+<persistable path="/docx4j-git/src/samples/docx4j/org/docx4j/samples/PageCounter.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="NamespacePrefixMapper.java" tooltip="docx4j-git/src/main/java/org/docx4j/jaxb/NamespacePrefixMapper.java">
+<persistable path="/docx4j-git/src/main/java/org/docx4j/jaxb/NamespacePrefixMapper.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GlyphCheck.java" tooltip="docx4j-git/src/main/java/org/docx4j/fonts/GlyphCheck.java">
+<persistable path="/docx4j-git/src/main/java/org/docx4j/fonts/GlyphCheck.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="EventMonitoringDemo.java" tooltip="docx4j-git/src/samples/docx4j/org/docx4j/samples/EventMonitoringDemo.java">
+<persistable path="/docx4j-git/src/samples/docx4j/org/docx4j/samples/EventMonitoringDemo.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="StyleDefinitionsPart.java" tooltip="docx4j-git/src/main/java/org/docx4j/openpackaging/parts/WordprocessingML/StyleDefinitionsPart.java">
+<persistable path="/docx4j-git/src/main/java/org/docx4j/openpackaging/parts/WordprocessingML/StyleDefinitionsPart.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="XPathEnhancerParser.java" tooltip="docx4j-git/src/main/java/org/docx4j/model/datastorage/XPathEnhancerParser.java">
+<persistable path="/docx4j-git/src/main/java/org/docx4j/model/datastorage/XPathEnhancerParser.java"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Additon.java" tooltip="/media/natasha/OS/workspace/java/HelloWorld/src/Additon.java">
+<persistable uri="file:/media/natasha/OS/workspace/java/HelloWorld/src/Additon.java"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HelloWorld.java" tooltip="/media/natasha/OS/workspace/java/HelloWorld/src/HelloWorld.java">
+<persistable uri="file:/media/natasha/OS/workspace/java/HelloWorld/src/HelloWorld.java"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Name.java" tooltip="/media/natasha/OS/workspace/java/HelloWorld/src/Name.java">
+<persistable uri="file:/media/natasha/OS/workspace/java/HelloWorld/src/Name.java"/>
+</file>
+</mruList>
+</workbench>
